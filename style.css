@@ -43,7 +43,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 7.5vmin;
     font-weight: bold;
-    background-color: hsl(352, 100, 84, 60%, var(--bg-lightness));/*#FFADB8;*/
+    background-color: hsl(352, 60%, var(--bg-lightness));/*#FFADB8; 352, 100, 84*/ 
     color: hsl(20, 25%, var(--text-lightness));
     transition: 100ms;  /* перемещение */
     animation: show 200ms; 
